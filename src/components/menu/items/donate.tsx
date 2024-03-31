@@ -6,7 +6,6 @@ export function Donate() {
   return (
     <Item
       href="https://buy.stripe.com/bIY3fpb2w0Gdeys3cc"
-      icon={<BiDonateHeart />}
       label="Donate ❤️"
     />
   );
