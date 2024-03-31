@@ -38,16 +38,6 @@ export function Features() {
       label: 'Customizable Mixes',
     },
     {
-      Icon: BiLogoGithub,
-      body: 'Contribute and collaborate, making the best even better.',
-      id: 'open-source',
-      label: 'Open-Source',
-      link: {
-        label: 'Source Code',
-        url: 'https://github.com/remvze/moodist',
-      },
-    },
-    {
       Icon: BsStars,
       body: 'Uninterrupted immersion, focus on the sounds, not the tech.',
       id: 'seamless-experience',

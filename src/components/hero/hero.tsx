@@ -15,7 +15,7 @@ export function Hero() {
         {/* <div className={styles.pattern} /> */}
 
         <img
-          alt="Faded Moodist Logo"
+          alt="Faded Chill Logo"
           className={styles.logo}
           height={45}
           src="/logo.svg"
@@ -24,7 +24,7 @@ export function Hero() {
 
         <div className={styles.title}>
           <div className={styles.left}></div>
-          <h2>Moodist</h2>
+          <h2>Chill: Relax & Sleep</h2>
           <div className={styles.right}></div>
         </div>
 

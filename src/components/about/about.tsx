@@ -8,26 +8,23 @@ export function About() {
 
   const paragraphs = [
     {
-      body: 'Craving a calming escape from the daily grind? Do you need the perfect soundscape to boost your focus or lull you into peaceful sleep? Look no further than Moodist, your free and open-source ambient sound generator! Ditch the subscriptions and registrations – with Moodist, you unlock a world of soothing and immersive audio experiences, entirely for free.',
-      title: 'Free Ambient Sounds',
+      body: 'Feeling like your brain is a squirrel in a traffic jam? Need to turn down the volume of life, or maybe find the perfect backdrop for your cat’s nap? Welcome to Chill, the absolutely free, open-source sanctuary of sound! Forget about forking over cash or signing up for more spam – Chill rolls out the red carpet to a universe of "eargasmic" audio adventures, and it’s all on the house.',
+      title: 'Free Ear Candy',
     },
     {
-      body: `Dive into an expansive library of ${count} carefully curated sounds. Nature lovers will find solace in the gentle murmur of streams, the rhythmic crash of waves, or the crackling warmth of a campfire. Cityscapes come alive with the soft hum of cafes, the rhythmic clatter of trains, or the calming white noise of traffic. And for those seeking deeper focus or relaxation, Moodist offers binaural beats and color noise designed to enhance your state of mind.`,
-      title: 'Carefully Curated Sounds',
+      body: `Plunge into our treasure trove of ${count} meticulously hoarded sounds. Nature buffs can bask in the secret gossip of forest streams, ride the coastal wave beats, or get toasty by a crackling campfire. Urban adventurers can soak in the cafe buzz, sync up with the subway symphony, or bathe in the bustling lullabies of city traffic. And for the monks in the making, Chill dials up the zen with binaural beats and color noises, tailor-made to tickle your brainwaves into submission.`,
+      title: 'A Sound Buffet',
     },
     {
-      body: 'The beauty of Moodist lies in its simplicity and customization. No complex menus or confusing options – just choose your desired sounds, adjust the volume balance, and hit play. Want to blend the gentle chirping of birds with the soothing sound of rain? No problem! Layer as many sounds as you like to create your personalized soundscape oasis.',
-      title: 'Create Your Soundscape',
+      body: 'Chill’s genius is in its no-nonsense, mix-and-match playground. Ditch the decision fatigue with our idiot-proof controls – pick your sounds, slide those volumes, and press play. Fancy a concert of crickets serenading the rain? Easy. Stack up those sounds like pancakes to whip up your very own auditory utopia.',
+      title: 'DIY Your Zen',
     },
-    // {
-    //   body: 'Moodist goes beyond just ambient sounds by offering a suite of productivity tools to help you stay organized and focused. Utilize the built-in pomodoro timer to structure your workday in focused intervals, jot down thoughts and ideas in the simple notepad, and keep track of your tasks with the handy to-do list. These tools seamlessly integrate with the ambient soundscapes, allowing you to create a personalized environment that fosters both focus and relaxation.',
-    //   title: 'A Productivity Toolbox',
-    // },
     {
-      body: "Whether you're looking to unwind after a long day, enhance your focus during work, or lull yourself into a peaceful sleep, Moodist has the perfect soundscape waiting for you. The best part? It's completely free and open-source, so you can enjoy its benefits without any strings attached. Start using Moodist today and discover your new haven of tranquility and focus!",
-      title: 'Sounds for Every Moment',
+      body: "Whether you're decompressing from a marathon meeting, jazzing up your focus, or seducing yourself into dreamland, Chill’s got your back with the ultimate sound escape. And since it's completely free and open-source, you’re free from the tyranny of credit cards and commitments. Slide into Chill today and turn your daily drama into a chillaxing retreat!",
+      title: 'Your Go-To Sound Spa',
     },
   ];
+
 
   const handleClick = () => {
     const app = document.getElementById('app');
@@ -52,7 +49,7 @@ export function About() {
         ))}
 
         <button className={styles.button} onClick={handleClick}>
-          Use Moodist
+          Use Chill
         </button>
       </Container>
     </section>

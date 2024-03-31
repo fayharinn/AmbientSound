@@ -7,13 +7,13 @@ export function Donate() {
     <Container>
       <section className={styles.wrapper}>
         <p className={styles.text}>
-          Enjoy Moodist?{' '}
+          Enjoy Chill?{' '}
           <a
-            href="https://buymeacoffee.com/remvze"
+            href="https://buy.stripe.com/bIY3fpb2w0Gdeys3cc"
             rel="noreferrer"
             target="_blank"
           >
-            Support with a donation!
+            Support with a donation!❤️
           </a>
         </p>
       </section>

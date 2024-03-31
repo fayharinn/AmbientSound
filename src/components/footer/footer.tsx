@@ -7,7 +7,7 @@ export function Footer() {
     <footer className={styles.footer}>
       <Container>
         <p>
-          Created by <a href="https://twitter.com/remvze">Maze ✦</a>
+          Chill: Relax & Sleep
         </p>
       </Container>
     </footer>
