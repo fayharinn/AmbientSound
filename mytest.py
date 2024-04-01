@@ -12,4 +12,4 @@ def recherche_mot(dossier, mot):
             except (IOError, UnicodeDecodeError):
                 pass
 
-recherche_mot(".","Source")
+recherche_mot(".","Moodist")

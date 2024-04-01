@@ -14,13 +14,13 @@ export function Donate() {
         </div>
       </div>
 
-      <div className={styles.title}>Support Me</div>
-      <p className={styles.desc}>Help me keep Moodist ad-free.</p>
+      <div className={styles.title}>Support Chill</div>
+      <p className={styles.desc}>Help to keep Chill ad-free.</p>
       <SpecialButton
         className={styles.button}
-        href="https://buymeacoffee.com/remvze"
+        href="https://buy.stripe.com/bIY3fpb2w0Gdeys3cc"
       >
-        Donate Today
+        Donate Now
       </SpecialButton>
     </div>
   );

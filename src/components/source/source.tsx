@@ -17,14 +17,8 @@ export function Source() {
             </div>
           </div>
 
-          <h2 className={styles.title}>Open Source</h2>
-          <p className={styles.desc}>Moodist is free and open-source!</p>
-          <SpecialButton
-            className={styles.button}
-            href="https://github.com/remvze/moodist"
-          >
-            Source Code
-          </SpecialButton>
+          <h2 className={styles.title}>Chill: Relax & Sleep</h2>
+          <p className={styles.desc}>Chill is free and available on iOS!</p>
         </div>
       </Container>
     </div>
