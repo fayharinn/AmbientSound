@@ -8,7 +8,7 @@ export function About() {
 
   const paragraphs = [
     {
-      body: 'Feeling like your brain is a squirrel in a traffic jam? Need to turn down the volume of life, or maybe find the perfect backdrop for your cat’s nap? Welcome to Chill, the absolutely free, open-source sanctuary of sound! Forget about forking over cash or signing up for more spam – Chill rolls out the red carpet to a universe of "eargasmic" audio adventures, and it’s all on the house.',
+      body: 'Feeling like your brain is a squirrel in a traffic jam? Need to turn down the volume of life, or maybe find the perfect backdrop for your cat’s nap? Welcome to Chill, the absolutely free sanctuary of sound! Forget about forking over cash or signing up for more spam – Chill rolls out the red carpet to a universe of "eargasmic" audio adventures, and it’s all on the house.',
       title: 'Free Ear Candy',
     },
     {
@@ -20,7 +20,7 @@ export function About() {
       title: 'DIY Your Zen',
     },
     {
-      body: "Whether you're decompressing from a marathon meeting, jazzing up your focus, or seducing yourself into dreamland, Chill’s got your back with the ultimate sound escape. And since it's completely free and open-source, you’re free from the tyranny of credit cards and commitments. Slide into Chill today and turn your daily drama into a chillaxing retreat!",
+      body: "Whether you're decompressing from a marathon meeting, jazzing up your focus, or seducing yourself into dreamland, Chill’s got your back with the ultimate sound escape. And since it's completely free! You’re free from the tyranny of credit cards and commitments. Slide into Chill today and turn your daily drama into a chillaxing retreat!",
       title: 'Your Go-To Sound Spa',
     },
   ];
